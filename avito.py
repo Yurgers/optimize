@@ -126,7 +126,6 @@ if __name__ == '__main__':
     avito_query = arguments.query
     category.extend(arguments.category.split())
 
-
     if not category:
         category = ['']
 
