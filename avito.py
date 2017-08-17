@@ -99,7 +99,6 @@ def get_page_data(html):
         else:
             metro = ''
 
-
         data = {
                 'title':title,
                 'url':url,
