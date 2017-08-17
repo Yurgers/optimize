@@ -145,5 +145,3 @@ if __name__ == '__main__':
     print('найдено %s товаров %s в категории %s' % (symma, avito_query, category) )
 
 
-
-
