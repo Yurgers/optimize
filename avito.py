@@ -143,3 +143,4 @@ if __name__ == '__main__':
         get_page_data(html)
     category = '/'.join(category)
     print('найдено %s товаров %s в категории %s' % (symma, avito_query, category) )
+
