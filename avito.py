@@ -134,6 +134,7 @@ if __name__ == '__main__':
 
     url = base_url + '/'.join(category)
     #print(url)
+
     pages = get_total_pages(get_html(url, avito_query, pages))
     #print(pages)
     #for p in range(1, pages+1):
